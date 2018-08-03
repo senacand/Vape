@@ -1,20 +1,30 @@
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/1342803/36623515-7293b4ec-18d3-11e8-85ab-4e2f8fb38fbd.png" width="320" alt="API Template">
-    <br>
-    <br>
-    <a href="http://docs.vapor.codes/3.0/">
-        <img src="http://img.shields.io/badge/read_the-docs-2196f3.svg" alt="Documentation">
-    </a>
-    <a href="https://discord.gg/vapor">
-        <img src="https://img.shields.io/discord/431917998102675485.svg" alt="Team Chat">
-    </a>
-    <a href="LICENSE">
-        <img src="http://img.shields.io/badge/license-MIT-brightgreen.svg" alt="MIT License">
-    </a>
-    <a href="https://circleci.com/gh/vapor/api-template">
-        <img src="https://circleci.com/gh/vapor/api-template.svg?style=shield" alt="Continuous Integration">
-    </a>
-    <a href="https://swift.org">
-        <img src="http://img.shields.io/badge/swift-4.1-brightgreen.svg" alt="Swift 4.1">
-    </a>
-</p>
+# Vape
+
+A flexible headless CMS based on Vapor (Swift server-side web framework)!
+
+## About
+### What's this?
+As the name suggest, this is yet another *flexible* headless CMS, this time written in Swift using Vapor.
+
+### Why should I use Vape?
+Not sure. You probably don't need to. This is a side project that I'm writing in my free time in between work. The purpose of this project is for me to explore *Vapor server-side web framework* and hopefully, someone else will join and learn together.
+
+### What's the purpose of Vape?
+I want to write a blog. Want to learn writing my own frontend and backend. *Nuff said*.
+
+### If it's for personal purpose, why the hell do you open source it?
+**Because why not?**
+On serious note, I hope someone will look at my code and bash about how *shitty* it is, so I can learn to be a better programmer. I'm also open to other people contributing to this project or maybe fork it and use it for their own purpose.
+
+### Why is it called Vape?
+Because *vaping* creates *vapor*.
+
+## To Do
+Obviously, this project is useless at this point, so here's the plan:
+1. Implement a simple way to create a new table with and its values.
+2. Ability to display the table content in JSON format.
+3. This is useless, I'll probably go away from this plan and ended up modifying on the way.
+
+## Contribution
+Wait, why?
+Okay, if you do want to contribute for whatever reason (*which honestly I'll probably gonna be really happy, yeay!*) do **post an issue first**.
